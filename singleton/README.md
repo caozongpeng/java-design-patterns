@@ -208,6 +208,7 @@ public enum EnumDirector {
 }
 ```
 ### 测试结果
+可以看到即使创建了两遍打印出来的日志还是同一个实例。
 ![singleton](https://github.com/caozongpeng/javaDesignPatterns/blob/master/images/singleton.png)
 ### 缺点
 * 由于单例模式中没有抽象层，因此单例类的扩展有很大的困难。

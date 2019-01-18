@@ -44,9 +44,5 @@ public class SingletonTest {
         EnumDirector enumDirector2 = EnumDirector.INSTANCE;
         LOGGER.info("饿汉式（枚举方式）1 = {}", enumDirector1);
         LOGGER.info("饿汉式（枚举方式）2 = {}", enumDirector2);
-
-
     }
-
-
 }
