@@ -10,6 +10,9 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>singleton</module>
+        <module>factory-method</module>
+        <module>simple-factory</module>
+        <module>abstract-factory</module>
     </modules>
 
     <properties>
