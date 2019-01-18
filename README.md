@@ -17,9 +17,10 @@
 | 项目名称 |博客地址 |
 |--|--|
 | Singleton （单例模式） | [设计模式学习之创建模式（1）单例](https://blog.csdn.net/qq_22067469/article/details/86535689) |
-| Builder （创建者）| |
+| Simple Factory （简单工厂）| [设计模式学习之创建模式（2）简单工厂](https://blog.csdn.net/qq_22067469/article/details/86547502) |
 | Abstract Factory （抽象工厂）| |
 | Factory Method （工厂方法）| |
+| Builder （创建者）|  |
 | Prototype （原型模式）| |
 #### 结构模式
 | 项目名称 |博客地址 |
