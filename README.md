@@ -1,4 +1,5 @@
 # Java设计模式
+如果你觉得能帮到你，请帮忙 `Star`，感谢支持。
 
 设计模式（Design pattern）是用于面向对象程序设计的、有效提高代码重用效率、有着明确使用场景分类的程序设计规范的总结。使用设计模式的 目的：为了代码可重用性、让代码更容易被他人理解、保证代码可靠性。 设计模式使代码编写真正工程化；设计模式是软件工程的基石脉络，如同大厦 的结构一样。在程序设计中 引入设计模式可以提高代码的可读性和程序运行时的可靠性，使程序设计得到规范和统一。
 
@@ -10,37 +11,38 @@
 
 ## 目录
 
-每一种模式会通过一篇博客文章进行讲解
+每一种模式会通过一篇博客文章进行讲解，项目持续更新中。
 
 #### 构建模式
-* Builder （创建者）
-* Abstract Factory （抽象工厂）
-* Factory Method （工厂方法）
-* Prototype （原型模式）
-* Singleton （单例模式）
+| 项目名称 |博客地址 |
+|--|--|
+| Singleton （单例模式） | [设计模式学习之创建模式（1）单例](https://blog.csdn.net/qq_22067469/article/details/86535689) |
+| Builder （创建者）| |
+| Abstract Factory （抽象工厂）| |
+| Factory Method （工厂方法）| |
+| Prototype （原型模式）| |
 #### 结构模式
-* Decorator （装饰模式）
-* Facade （外观模式）
-* Flyweight （享元模式）
-* Adapter （适配器）
-* Bridge （桥接模式）
-* Composite （组合模式）
-* Proxy （代理模式）
+| 项目名称 |博客地址 |
+|--|--|
+| Decorator （装饰模式） | |
+| Facade （外观模式）| |
+| Flyweight （享元模式）| |
+| Adapter （适配器）| |
+| Bridge （桥接模式）| |
+| Composite （组合模式）| |
+| Proxy （代理模式）| |
 #### 结构模式
-* Mediator（中介者模式）
-* Memento（备忘录模式）
-* Observer（观察者模式）
-* State（状态模式）
-* Strategy （策略模式）
-* Template Method （模板方法）
-* Visitor（访问者模式）
-* Chain of Responsibility （职责链模式）
-* Command （命令模式）
-* Interpreter （解释器模式）
-* Iterator（迭代器模式）
-
-
-
-
-
+| 项目名称 |博客地址 |
+|--|--|
+| Mediator（中介者模式） | |
+| Memento（备忘录模式）| |
+| Observer（观察者模式）| |
+| State（状态模式）| |
+| Strategy （策略模式）| |
+| Template Method （模板方法）| |
+| Chain of Responsibility （职责链模式）| |
+| Interpreter （解释器模式）| |
+| Iterator（迭代器模式）| |
+| Strategy （策略模式）| |
+| Visitor（访问者模式）| |
 
