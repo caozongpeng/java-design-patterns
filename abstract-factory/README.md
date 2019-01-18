@@ -18,8 +18,10 @@
 抽象工厂是生产一整套有产品的（至少要生产两个产品)，这些产品必须相互是有关系或有依赖的，而工厂方法中的工厂是生产单一产品的工厂。
 #### 抽象工厂图示
 ![abstract-factory](https://github.com/caozongpeng/javaDesignPatterns/blob/master/images/abstract-factory.jpg)
+
 ## 具体实现
 现在手机基本上人人都有，我们假设现在存在苹果、三星两种手机，每一种手机对应一种手机壳。我们现在这样考虑生产苹果手机的工厂可以顺便生产苹果手机的手机壳，生产三星手机的工厂可以顺便生产三星手机的手机壳（苹果工厂生产苹果系统产品包括手机壳，三星工厂同理）。
+
 ![abstract-factory2](https://github.com/caozongpeng/javaDesignPatterns/blob/master/images/abstract-factory2.png)
 
 
