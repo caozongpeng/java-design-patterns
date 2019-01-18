@@ -208,7 +208,7 @@ public enum EnumDirector {
 }
 ```
 ### 测试结果
-
+![singleton](https://github.com/caozongpeng/javaDesignPatterns/blob/master/images/singleton.png)
 ### 缺点
 * 由于单例模式中没有抽象层，因此单例类的扩展有很大的困难。
 * 单例的职责过重，在一定程度上违背了`单一职责原则`。因为单例类既充当了工厂角色，提供了工厂方法，同时又充当了产品角色，包含一下线业务方法，将产品的创建和产品的本身的功能整合到一起。
@@ -219,6 +219,7 @@ public enum EnumDirector {
 * 懒汉式（双重检查加锁版）
 * 懒汉式（登记式/静态内部类方式）
 * 饿汉式（枚举方式）
+
 主要应用场景如下
 * 一个类频繁的被实例化，但同时又频繁的被销毁
 * 一个类的实例化过程非常耗费资源，且该类的对象频繁的被使用
