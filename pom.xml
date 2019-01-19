@@ -13,6 +13,7 @@
         <module>factory-method</module>
         <module>simple-factory</module>
         <module>abstract-factory</module>
+        <module>builder</module>
     </modules>
 
     <properties>
